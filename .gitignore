@@ -1,0 +1,21 @@
+# Sensitive or private files
+catatan update
+
+# IDE/editor files
+*.log
+*.tmp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: exclude design files
+*.bmpr
+
+# Vendor folder (if using Composer in the future)
+vendor/
+
+# Environment or config files
+.env
+config.php  # Just in case

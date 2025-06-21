@@ -1,0 +1,92 @@
+.carousel-inner {
+    height: 50vh;
+    min-height: 300px;
+    max-height: 300px;
+}
+
+
+.box {
+    background: #2C666E;
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+}
+
+.kotak_login {
+    width: 350px;
+    background: white;
+    margin: 80px auto;
+    padding: 30px 20px;
+    box-shadow: 0px 0px 100px 4px #d6d6d6;
+}
+
+.tulisan_login {
+    text-align: center;
+    text-transform: uppercase;
+}
+body {
+    background-color: #07393c;
+    padding: 20px;
+    color: #f0edee;
+}
+
+h1, h2, h3 {
+    color: #007bff;
+}
+
+form {
+    background-color: #1c1e21;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 20px 4px #000000;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    color: #f0edee;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #2aa7e2;
+    border-radius: 5px;
+    box-sizing: border-box;
+    color: #000000;
+    background-color: #1c1e21;
+}
+
+.back-button {
+    background-color: #6c757d;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+    background-color: #495057;
+}
+
+.back-button:hover {
+    background-color: #357ae8;
+}
+
+textarea {
+    resize: vertical;
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #2aa7e2;
+    border-radius: 5px;
+    box-sizing: border-box;
+    color: #000000;
+    background-color: #1c1e21;
+}
